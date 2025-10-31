@@ -170,6 +170,8 @@ You can now interact with the real-time chat app and start messaging!
 
 ---
 
+Copyright (c) 2024 Burak
+
 
 
 ## 📜 License
